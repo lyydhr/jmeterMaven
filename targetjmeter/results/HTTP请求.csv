@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1571046123635,176,HTTP请求,200,OK,线程组 1-1,text,true,,10745,337,1,1,http://tsdev.zlapi.com/toy/info?tid=10069990005&client=ios&cv=3.8.2&vendor=AppStore&mac=1C1C2741-51A0-49EF-ABF7-149B6F29B051&imei=1C1C2741-51A0-49EF-ABF7-149B6F29B051&uuid=1C1C2741-51A0-49EF-ABF7-149B6F29B051&ptype=iPhone8%2C1&os=12.2&scene=101,175,0,58
